@@ -38,6 +38,6 @@ jobs:
               with:
                 token: ${{ secrets.CODECOV_TOKEN }}
                 files: ./coverage/lcov.info
-                flag: unittests
+                flags: unittests
                 name: codecov-report
-                file_ci_if_error: true
+                fail_ci_if_error: true
