@@ -17,7 +17,7 @@ coverage:
         threshold: 5%
         base: auto
 
-  comment:                  # this is a top-level key
+comment:                  # this is a top-level key
   layout: " diff, flags, files"
   behavior: default
   require_changes: false  # learn more in the Requiring Changes section below
