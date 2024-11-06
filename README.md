@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+[![codecov](https://codecov.io/github/kiryl-kryvicki/app-template-kiryl/graph/badge.svg?token=42GFR4Q48Y)](https://codecov.io/github/kiryl-kryvicki/app-template-kiryl)
+
 ## Available Scripts
 
 In the project directory, you can run:
