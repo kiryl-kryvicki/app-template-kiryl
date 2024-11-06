@@ -1,0 +1,18 @@
+coverage:
+  status:
+    project:
+      default: 
+        # basic settings
+        target: 80%
+        threshold: 5%
+        base: auto
+        # advanced settings
+        branches: 
+          - main
+        if_ci_failed: error
+        only_pulls: true      
+    patch:
+      default:
+        target: 80%
+        threshold: 5%
+        base: auto
